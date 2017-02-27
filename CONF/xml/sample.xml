@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : sample.xml
+    Created on : 2011/05/24, 10:45
+    Author     : shin001
+    Description:
+        Purpose of the document follows.
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+   <channel>
+      <title>Webtech Walker</title>
+      <link>http://webtech-walker.com/</link>
+      <description>CSS、PHP、Ajaxなどを中心にしたWEB技術の散策記録</description>
+      <language>ja</language>
+      <copyright>Copyright 2007</copyright>
+
+      <lastBuildDate>Tue, 03 Apr 2007 14:33:17 +0900</lastBuildDate>
+      <generator>http://www.sixapart.com/movabletype/</generator>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+      <item>
+         <title>年齢と誕生日の変換プログラム[PHP]</title>
+         <description>PHPで年齢を引数にして誕生日を返す関数とその逆の関数のサンプルです。結構使いどころが多いんですよね、最近。というわけでメモっておこうと思います。</description>
+         <link>http://webtech-walker.com/archive/2007/04/03143317.html</link>
+
+         <guid>http://webtech-walker.com/archive/2007/04/03143317.html</guid>
+         <pubDate>Tue, 03 Apr 2007 14:33:17 +0900</pubDate>
+      </item>
+
+      <item>
+         <title>IEでfloatさせたボックスのmarginが2倍になるバグ</title>
+         <description>有名なバグではありますが、久しぶりに遭遇して困ったことになったので書き残しておきます。実際どういう感じで表示されるかというと、下記のような感じです。</description>
+
+         <link>http://webtech-walker.com/archive/2007/03/29171705.html</link>
+         <guid>http://webtech-walker.com/archive/2007/03/29171705.html</guid>
+         <pubDate>Thu, 29 Mar 2007 17:17:05 +0900</pubDate>
+      </item>
+      
+      <item>
+         <title>ページの高さを自動調節するjavascript</title>
+         <description>コンテンツの量が少ないページだと、極端にページの高さが小さくなったりすることがあります。cssのheightプロパティで高さをしてしまえばいいのですが、コンテンツの内容が変わる度にcssを編集するのは管理が大変になってしまいます。</description>
+
+         <link>http://webtech-walker.com/archive/2007/03/26231718.html</link>
+         <guid>http://webtech-walker.com/archive/2007/03/26231718.html</guid>
+         <pubDate>Mon, 26 Mar 2007 23:17:18 +0900</pubDate>
+      </item>
+
+   </channel>
+</rss>
