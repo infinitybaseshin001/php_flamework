@@ -11,3 +11,17 @@ Smarty///テンプレートエンジンライブラリ（実行時はバージ�
 TMP//一時置き場
 VIEW///テンプレート（表示html）
 www///htdocs(セキュリティ上なるべく他ディレクトリと同階層にする)
+
+
+PHP's MVC introductory framework
+
+CONF /// configuration file
+CRON /// Coulomb executable file
+LOG /// log storage area
+MODEL /// model (execution function)
+PEAR /// extension library (version up required at run time)
+PROC /// proc mail storage space
+Smarty /// template engine library (version upgrade required at run time)
+TMP // temporary storage area
+VIEW /// template (display html)
+Www /// htdocs (Make it the same hierarchy as other directories for security)
